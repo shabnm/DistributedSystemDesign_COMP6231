@@ -1,0 +1,5 @@
+
+COMPA1111 Advisor wants to Add course 	2018-10-13T06:48:00.372
+COMPA1111 wants to add course COMP2 FALL of size 2	2018-10-13T06:48:09.344
+****Redirecting COMPA1111 to COMP department****
+COMPA1111 Advisor wants to Add course 	2018-10-13T06:58:31.138

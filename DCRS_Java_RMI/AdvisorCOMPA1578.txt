@@ -1,0 +1,4 @@
+
+COMPA1578 Advisor wants to Add course 	2018-10-13T06:43:40.700
+COMPA1578 wants to add course COMP90 WINTER of size 12	2018-10-13T06:43:49.223
+****Redirecting COMPA1578 to COMP department****
